@@ -37,7 +37,7 @@ export function Hero() {
                 <ArrowRight className="w-4 h-4" />
               </Button>
             </Link>
-            <a href="https://github.com/PurvikaJagtap7" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/PurvikaJagtap7/formcraft" target="_blank" rel="noopener noreferrer">
   <Button size="lg" variant="outline">
     View Github
   </Button>
